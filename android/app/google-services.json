@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697070371727",
+    "project_id": "fir-logsign-8f537",
+    "storage_bucket": "fir-logsign-8f537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697070371727:android:21fde22cc8c844eb2941fa",
+        "android_client_info": {
+          "package_name": "com.example.firebase_logsign"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk-fObix9bifGgclm-svLD4S0p46IfFt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
